@@ -1,0 +1,5 @@
+pandas
+pyarrow
+torch
+# PriorLabs TabPFN-TS
+tabpfn-time-series
