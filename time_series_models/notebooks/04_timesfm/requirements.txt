@@ -1,5 +1,0 @@
-pandas
-pyarrow
-torch
-# Google TimesFM (instalado via Git)
-git+https://github.com/google-research/timesfm.git
