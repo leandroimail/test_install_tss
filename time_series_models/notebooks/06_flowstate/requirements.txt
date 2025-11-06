@@ -1,5 +1,0 @@
-pandas
-pyarrow
-torch
-# IBM Flowstate (instalado via Git com extras)
-git+https://github.com/ibm-granite/granite-tsfm.git#egg=granite-tsfm[notebooks]

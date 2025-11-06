@@ -1,0 +1,15 @@
+[project]
+name = "06-flowstate"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "granite-tsfm[notebooks]",
+    "pandas>=2.3.3",
+    "pyarrow>=22.0.0",
+    "torch>=2.8.0",
+]
+
+[tool.uv.sources]
+granite-tsfm = { git = "https://github.com/ibm-granite/granite-tsfm.git" }

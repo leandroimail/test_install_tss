@@ -1,8 +1,0 @@
-pandas
-pyarrow
-torch
-# Base
-transformers
-accelerate
-# Amazon Chronos
-chronos-forecasting
