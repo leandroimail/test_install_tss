@@ -1,0 +1,8 @@
+# Caches de Python
+__pycache__/
+
+# Ambientes virtuais
+.venv/
+
+# Ficheiros de modelo
+*.ckpt

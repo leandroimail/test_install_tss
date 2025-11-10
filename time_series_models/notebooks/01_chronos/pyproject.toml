@@ -11,4 +11,6 @@ dependencies = [
     "pyarrow>=22.0.0",
     "torch>=2.9.0",
     "transformers>=4.57.1",
+    "papermill>=2.5.0",
+    "ipykernel>=6.29.0",
 ]
