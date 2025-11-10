@@ -9,6 +9,8 @@ dependencies = [
     "pandas>=2.3.3",
     "pyarrow>=22.0.0",
     "torch>=2.8.0",
+    "papermill>=2.5.0",
+    "ipykernel>=6.29.0",
 ]
 
 [tool.uv.sources]

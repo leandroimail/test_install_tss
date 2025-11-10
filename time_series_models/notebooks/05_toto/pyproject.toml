@@ -9,4 +9,6 @@ dependencies = [
     "pyarrow>=22.0.0",
     "torch>=2.7.0",
     "toto-ts>=0.1.4",
+    "papermill>=2.5.0",
+    "ipykernel>=6.29.0",
 ]
